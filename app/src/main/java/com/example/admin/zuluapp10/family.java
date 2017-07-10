@@ -23,7 +23,7 @@ public class family extends Activity {
         final ArrayList<Word> words = new ArrayList<>();
 
         //english ,zulu,audio,pic
-        words.add(new Word("father", "ubaba", R.raw.ubaba, R.drawable.father));
+        words.add(new Word("father", "Ubaba", R.raw.ubaba, R.drawable.father));
         words.add(new Word("mother", "umama", R.raw.mama, R.drawable.mother));
         words.add(new Word("daugter", "indodakazi", R.raw.girly, R.drawable.daughter));
         words.add(new Word("son", "indodana", R.raw.indodana, R.drawable.son));
